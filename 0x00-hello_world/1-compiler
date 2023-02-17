@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S $CFLILE
+gcc -c $CFLILE
