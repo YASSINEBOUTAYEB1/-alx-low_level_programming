@@ -1,1 +1,1 @@
-project 0x00. C - Hello, World
+My project in C
