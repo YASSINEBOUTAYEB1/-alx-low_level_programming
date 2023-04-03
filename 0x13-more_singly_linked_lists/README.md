@@ -1,1 +1,1 @@
-			solution taks 0x13-more_singly_linked_lists
+			solution tasks 0x13-more_singly_linked_lists
