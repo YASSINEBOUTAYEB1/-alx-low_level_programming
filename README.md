@@ -1,1 +1,1 @@
-solution  project  0x13. C - More singly linked lists
+ALL project C - alx-low_level_programming
